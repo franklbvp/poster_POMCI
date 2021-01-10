@@ -22,7 +22,7 @@ beginner
 | | |[invoeren tekts 08:23](https://kuleuven.mediaspace.kaltura.com/media/poster-invoeren-tekst/1_tgty304a) |
 | | |[invoeren etc. 13:26](https://kuleuven.mediaspace.kaltura.com/media/poster-invoeren-etc/1_d0xk8hii)|
 | | |[POMCI sjabloon 05:20](https://kuleuven.mediaspace.kaltura.com/media/poster-POMCI/1_wtxizqqg)|
-|[SOS Poster](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-sos.pdf) | [05:45](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-20-21-sos/1_ixmb1aem)| [text 09:35](https://kuleuven.mediaspace.kaltura.com/media/handson-AFF_A0_text/1_bcbov502) |
+|[SOS Poster](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-sos.pdf) | [05:45](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-20-21-sos/1_ixmb1aem)| - |
 
 ## Extra info
 * [POMCI sjabloon](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Standaardformat_poster_POMCI.pptx)
