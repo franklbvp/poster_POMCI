@@ -15,7 +15,7 @@ beginner
 
 |Slides | Ingesproken PowerPoint | Screencast Demo |
 |------------ | -------------------- | -----------------------|
-|[Situering](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-situering.pdf) |[23:44](hhttps://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-situering/1_rxd2uffx) | - |
+|[Situering](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-situering.pdf) |[23:44](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-situering/1_rxd2uffx) | - |
 |[Elementen](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-elementen.pdf) |[22:24](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-elementen/1_zb4zlqyw) | - |
 |[Tips](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-tips.pdf) |[25:19](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-tips/1_w5ec4fwh) | - |
 |[Gebruik PowerPoint](https://github.com/franklbvp/poster_POMCI/blob/main/docs/Criminologie-PosterOpdracht-powerpoint.pdf) |[18:43](https://kuleuven.mediaspace.kaltura.com/media/Criminologie-PosterOpdracht-powerpoint/1_vlcy4eyy) | [instellingen start 09:20](https://kuleuven.mediaspace.kaltura.com/media/poster-instellingen-start/1_4w2rjik6) |
